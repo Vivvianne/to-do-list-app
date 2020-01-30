@@ -3,7 +3,7 @@
 </div>
 <div class="input-group">
     <input type="text" class="form-control" #itemTitle>
-    <div class="input-group-addon hover-cursor">
+    <div class="input-group-addon hover-cursor" (click)="onAdd(itemTitle)">
         <i class="fa fa-plus-circle fa-2x"></i>
     </div>
 
