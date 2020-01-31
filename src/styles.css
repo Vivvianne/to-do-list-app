@@ -3,3 +3,22 @@
 .hover-cursor {
     cursor: pointer;
 }
+
+.jumbotron {
+    border: 1px solid tomato;
+    background-color: tomato;
+}
+
+.heading {
+    color: seashell;
+    width: 400px;
+    height: 50px;
+    text-align: center;
+    align-items: center;
+}
+
+h3 {
+    text-align: center;
+    margin-left: 25px;
+    font-size: 27px;
+}
